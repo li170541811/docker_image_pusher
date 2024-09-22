@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 arm64v8/ubuntu:latest
 python:alpine3.19
+kimwesley/nas-tools:latest
+nastool/nas-tools
